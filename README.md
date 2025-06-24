@@ -1,5 +1,9 @@
+>
+>     ‎   ‎ 
 >          I'm a passionate software developer with a love for clean, elegant solutions, and a strong appreciation
 >                      for mathematics. I enjoy building things that are fast, intuitive, and clever.
+>        ‎ 
+>
 
 ## 💻 Latest Projects
 
