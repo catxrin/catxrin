@@ -5,6 +5,11 @@
 >        ‎ 
 >     ‎   ‎ 
 
+### 📚 Currently Learning
+→ Advancing through the **JavaScript Full Stack Developer curriculum** at [SoftUni](https://softuni.bg/)  
+→ Beginning my **BSc in Applied Mathematics**
+
+
 ## 💻 Latest Projects
 
 ### [ShadowTalk](https://github.com/catxrin/ShadowTalk)
