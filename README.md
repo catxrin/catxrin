@@ -7,7 +7,7 @@
 
 ### 📚 Currently Learning
 → Advancing through the **JavaScript Full Stack Developer curriculum** at [SoftUni](https://softuni.bg/)  
-→ Beginning my **BSc in Applied Mathematics**
+→ Pursuing a **BSc in Applied Mathematics**
 
 
 ## 💻 Latest Projects
@@ -22,6 +22,7 @@
 ![Express](https://img.shields.io/badge/Express-161b22?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0f172a?style=for-the-badge&logo=mongodb&logoColor=47A248)
 ![Socket.io](https://img.shields.io/badge/Socket.io-20232A?style=for-the-badge&logo=socket.io&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-20232A?style=for-the-badge&logo=redux&logoColor=764ABC)
 
 ---
   
